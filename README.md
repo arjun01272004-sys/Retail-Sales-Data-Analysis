@@ -50,5 +50,5 @@ It contains 12,575 retail transaction records with columns such as product categ
 
 - `Retail_Sales_Data_Analysis.ipynb` - Main analysis notebook
 - `retail_store_sales.csv` - Retail sales dataset
-- `requirements.txt` - Python libraries required to run the notebook
+
 
